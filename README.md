@@ -2,18 +2,7 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire-animation">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Sans Pro">
-        <style>
-        p{
-            font-family: Source Sans Pro;
-            font-size: 14pt;
-        }
-        h3{
-            font-family: Audiowide;
-            font-size: 14pt;
-            color: orange;
-            letter-spacing: .3rem;
-        }
-        </style>      
+        <link rel="stylesheet" type="text/css" href="ReadMe Assets/style.css">    
     </head>
     <body>
         <center>
