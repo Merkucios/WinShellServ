@@ -1,5 +1,4 @@
-<html>
-    <head>
+<head>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire-animation">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Sans Pro">
@@ -8,21 +7,18 @@
             font-family: Source Sans Pro;
             font-size: 14pt;
         }
-
         h3{
             font-family: Audiowide;
             font-size: 14pt;
             color: orange;
             letter-spacing: .3rem;
         }
-        </style>
-
+        </style>      
     </head>
     <body>
         <center>
         <div class="font-effect-fire-animation"><font size=14pt>WinShellServ</font></div>
         </center>
-
         <center>
         <img src="ReadMe Assets/winserver.png" height=200px>
         </center>
